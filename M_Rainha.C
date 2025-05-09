@@ -103,5 +103,5 @@ int main()
 
             break;
         }
-    } while (opcao != 5);
+    } while (opcao != 0);
 }
