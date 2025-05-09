@@ -3,6 +3,9 @@
         "M_Bispo.C": "cpp",
         "M_Torre.C": "cpp",
         "M_Rainha.C": "cpp",
-        "M_Cavalo.C": "cpp"
+        "M_Cavalo.C": "cpp",
+        "moverBispo.C": "cpp",
+        "moverRainha.C": "cpp",
+        "moverCavalo.C": "cpp"
     }
 }
